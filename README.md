@@ -104,7 +104,7 @@
 
 ```bash
 # 複製專案
-git clone https://github.com/YOUR_USERNAME/uitest.git
+git clone https://github.com/joshhu/uitest.git
 
 # 進入資料夾
 cd uitest
