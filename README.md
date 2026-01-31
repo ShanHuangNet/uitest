@@ -1,140 +1,140 @@
 # UI Styles Showcase
 
-> 57 種現代 UI 設計風格的完整展示集，從 Minimalism 到 Gen Z Chaos，一次看完所有流行的 UI 設計趨勢。
+> A comprehensive collection of 57 modern UI design styles, from Minimalism to Gen Z Chaos — explore all the trending UI design trends in one place.
 
 ![UI Styles](https://img.shields.io/badge/Styles-57-blue)
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-CDN-38B2AC)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## 預覽
+## Preview
 
-每個風格都是一個獨立的 landing page，展示該設計風格的核心元素、配色、排版與互動效果。
+Each style is a standalone landing page showcasing the core elements, color palette, typography, and interactive effects of that design style.
 
-## 風格列表
+## Style List
 
 ### General Styles (1-19)
 
-| # | 風格名稱 | 說明 |
-|---|----------|------|
-| 01 | Minimalism | 極簡主義，少即是多 |
-| 02 | Neumorphism | 新擬態，柔和陰影與凸起效果 |
-| 03 | Glassmorphism | 玻璃擬態，毛玻璃透明效果 |
-| 04 | Dark Mode | 深色模式，護眼低對比 |
-| 05 | Gradient Mesh | 漸層網格，流體色彩 |
-| 06 | Claymorphism | 黏土擬態，3D 立體感 |
-| 07 | Aurora UI | 極光效果，夢幻漸層 |
-| 08 | Retro/Vintage | 復古風格，懷舊質感 |
-| 09 | Monochrome | 單色設計，黑白灰階 |
-| 10 | Maximalism | 極繁主義，豐富層次 |
-| 11 | Flat Design 2.0 | 扁平設計進化版 |
+| # | Style Name | Description |
+|---|------------|-------------|
+| 01 | Minimalism | Less is more |
+| 02 | Neumorphism | Soft shadows and raised effects |
+| 03 | Glassmorphism | Frosted glass transparency effect |
+| 04 | Dark Mode | Eye-friendly low contrast |
+| 05 | Gradient Mesh | Fluid color gradients |
+| 06 | Claymorphism | Clay-like 3D appearance |
+| 07 | Aurora UI | Dreamy aurora gradients |
+| 08 | Retro/Vintage | Nostalgic vintage aesthetics |
+| 09 | Monochrome | Black and white grayscale design |
+| 10 | Maximalism | Rich layered complexity |
+| 11 | Flat Design 2.0 | Evolution of flat design |
 | 12 | Material Design 3 | Google Material You |
-| 13 | Skeuomorphism | 擬物化設計，仿真質感 |
-| 14 | Frosted Glass | 霜化玻璃效果 |
-| 15 | Neon Glow | 霓虹發光效果 |
-| 16 | Paper/Card | 卡片式紙張質感 |
-| 17 | Duotone | 雙色調設計 |
-| 18 | Isometric | 等距 3D 插圖風格 |
-| 19 | Hand-drawn | 手繪塗鴉風格 |
+| 13 | Skeuomorphism | Realistic textures and materials |
+| 14 | Frosted Glass | Frosted glass effect |
+| 15 | Neon Glow | Neon lighting effects |
+| 16 | Paper/Card | Card-based paper texture |
+| 17 | Duotone | Two-tone color design |
+| 18 | Isometric | Isometric 3D illustration style |
+| 19 | Hand-drawn | Hand-drawn doodle style |
 
 ### Landing Page Styles (20-27)
 
-| # | 風格名稱 | 說明 |
-|---|----------|------|
-| 20 | Hero-Centric | 大圖主視覺為中心 |
-| 21 | Split Screen | 左右分割畫面 |
-| 22 | Video Background | 影片背景 |
-| 23 | Scroll-Driven | 捲動觸發動畫 |
-| 24 | Conversion-Focused | 轉換率優化設計 |
-| 25 | Interactive Demo | 互動式產品展示 |
-| 26 | Trust & Authority | 信任感與權威設計 |
-| 27 | Storytelling | 故事敘事型設計 |
+| # | Style Name | Description |
+|---|------------|-------------|
+| 20 | Hero-Centric | Large hero image focused |
+| 21 | Split Screen | Left-right split layout |
+| 22 | Video Background | Video background |
+| 23 | Scroll-Driven | Scroll-triggered animations |
+| 24 | Conversion-Focused | Conversion rate optimized design |
+| 25 | Interactive Demo | Interactive product showcase |
+| 26 | Trust & Authority | Trust and authority design |
+| 27 | Storytelling | Narrative-driven design |
 
 ### BI/Analytics Styles (28-37)
 
-| # | 風格名稱 | 說明 |
-|---|----------|------|
-| 28 | Data-Dense Dashboard | 高密度數據儀表板 |
-| 29 | Heatmap & Density | 熱力圖與密度視覺化 |
-| 30 | Executive Summary | 高管摘要報表 |
-| 31 | Real-time Monitoring | 即時監控儀表板 |
-| 32 | Drill-Down Analytics | 層級式數據探索 |
-| 33 | Comparative Analytics | 比較分析 (YoY) |
-| 34 | Predictive Analytics | AI 預測分析 |
-| 35 | User Behavior Analytics | 用戶行為分析 |
-| 36 | Financial Analytics | 金融投資分析 |
-| 37 | Sales Intelligence | 銷售智慧儀表板 |
+| # | Style Name | Description |
+|---|------------|-------------|
+| 28 | Data-Dense Dashboard | High-density data dashboard |
+| 29 | Heatmap & Density | Heatmap and density visualization |
+| 30 | Executive Summary | Executive summary reports |
+| 31 | Real-time Monitoring | Real-time monitoring dashboard |
+| 32 | Drill-Down Analytics | Hierarchical data exploration |
+| 33 | Comparative Analytics | Comparative analysis (YoY) |
+| 34 | Predictive Analytics | AI predictive analytics |
+| 35 | User Behavior Analytics | User behavior analysis |
+| 36 | Financial Analytics | Financial investment analysis |
+| 37 | Sales Intelligence | Sales intelligence dashboard |
 
 ### Modern Styles (38-57)
 
-| # | 風格名稱 | 說明 |
-|---|----------|------|
-| 38 | Neubrutalism | 新野獸派，粗框高對比 |
-| 39 | Bento Box | 便當盒非對稱網格 |
-| 40 | Y2K Revival | 千禧年復古 |
-| 41 | Cyberpunk | 賽博龐克，霓虹未來 |
-| 42 | Organic/Biophilic | 有機自然風格 |
-| 43 | AI-Native | AI 原生介面設計 |
-| 44 | Memphis Revival | 80s 曼菲斯復興 |
-| 45 | Vaporwave | 蒸氣波美學 |
-| 46 | Dimensional Layering | 多層次景深設計 |
-| 47 | Exaggerated Minimalism | 極端極簡主義 |
-| 48 | Kinetic Typography | 動態字體設計 |
-| 49 | Parallax Storytelling | 視差滾動敘事 |
-| 50 | Swiss Modernism 2.0 | 瑞士現代主義 |
-| 51 | HUD/Sci-Fi | 科幻 HUD 介面 |
-| 52 | Pixel Art | 像素復古遊戲風 |
-| 53 | Bento Grids | 便當格網格系統 |
-| 54 | Neubrutalism v2 | 新野獸派進化版 |
-| 55 | Spatial UI | 空間運算介面 (Vision Pro) |
-| 56 | E-Ink/Paper | 電子墨水紙張風格 |
-| 57 | Gen Z Chaos | Z 世代混亂美學 |
+| # | Style Name | Description |
+|---|------------|-------------|
+| 38 | Neubrutalism | Bold borders, high contrast |
+| 39 | Bento Box | Asymmetric bento grid layout |
+| 40 | Y2K Revival | Millennium retro aesthetics |
+| 41 | Cyberpunk | Neon futuristic vibes |
+| 42 | Organic/Biophilic | Organic natural style |
+| 43 | AI-Native | AI-native interface design |
+| 44 | Memphis Revival | 80s Memphis design revival |
+| 45 | Vaporwave | Vaporwave aesthetics |
+| 46 | Dimensional Layering | Multi-layer depth design |
+| 47 | Exaggerated Minimalism | Extreme minimalism |
+| 48 | Kinetic Typography | Dynamic typography design |
+| 49 | Parallax Storytelling | Parallax scroll narrative |
+| 50 | Swiss Modernism 2.0 | Swiss modernism style |
+| 51 | HUD/Sci-Fi | Sci-fi HUD interface |
+| 52 | Pixel Art | Retro pixel game style |
+| 53 | Bento Grids | Bento grid system |
+| 54 | Neubrutalism v2 | Neubrutalism evolved |
+| 55 | Spatial UI | Spatial computing interface (Vision Pro) |
+| 56 | E-Ink/Paper | E-ink paper style |
+| 57 | Gen Z Chaos | Gen Z chaotic aesthetics |
 
-## 技術特點
+## Technical Features
 
-- **純靜態 HTML** - 無需建置，直接部署
-- **Tailwind CSS CDN** - 使用 CDN 引入，無需 npm install
-- **Google Fonts** - 各風格搭配適合的字體
-- **響應式設計** - 支援桌面與行動裝置
-- **CSS 動畫** - 豐富的互動效果
+- **Pure Static HTML** - No build required, deploy directly
+- **Tailwind CSS CDN** - CDN import, no npm install needed
+- **Google Fonts** - Each style paired with suitable fonts
+- **Responsive Design** - Desktop and mobile support
+- **CSS Animations** - Rich interactive effects
 
-## 快速開始
+## Quick Start
 
-### 本地預覽
+### Local Preview
 
 ```bash
-# 複製專案
+# Clone the project
 git clone https://github.com/joshhu/uitest.git
 
-# 進入資料夾
+# Enter the folder
 cd uitest
 
-# 用瀏覽器開啟 index.html
+# Open index.html in browser
 open index.html
-# 或
+# or
 xdg-open index.html  # Linux
 start index.html     # Windows
 ```
 
-### 部署到 Netlify
+### Deploy to Netlify
 
-1. 前往 [Netlify Drop](https://app.netlify.com/drop)
-2. 拖放整個資料夾
-3. 完成！
+1. Go to [Netlify Drop](https://app.netlify.com/drop)
+2. Drag and drop the entire folder
+3. Done!
 
-### 部署到 GitHub Pages
+### Deploy to GitHub Pages
 
-1. Fork 此 repo
-2. 到 Settings → Pages
-3. Source 選擇 `main` branch
-4. 儲存後等待部署完成
+1. Fork this repo
+2. Go to Settings → Pages
+3. Select `main` branch as Source
+4. Save and wait for deployment
 
-## 專案結構
+## Project Structure
 
 ```
 uitest/
-├── index.html              # 首頁索引
-├── README.md               # 說明文件
+├── index.html              # Homepage index
+├── README.md               # Documentation
 └── styles/
     ├── 01-minimalism.html
     ├── 02-neumorphism.html
@@ -143,20 +143,20 @@ uitest/
     └── 57-gen-z-chaos.html
 ```
 
-## 使用場景
+## Use Cases
 
-- **設計師** - 快速參考不同 UI 風格的實作方式
-- **開發者** - 學習 Tailwind CSS 各種設計技巧
-- **產品經理** - 與團隊溝通設計方向時的參考
-- **學習者** - UI/UX 設計入門的實例教材
+- **Designers** - Quick reference for different UI style implementations
+- **Developers** - Learn various Tailwind CSS design techniques
+- **Product Managers** - Reference when communicating design direction with teams
+- **Learners** - Practical examples for UI/UX design beginners
 
-## 授權
+## License
 
-MIT License - 歡迎自由使用、修改與分享。
+MIT License - Feel free to use, modify, and share.
 
-## 致謝
+## Acknowledgments
 
-本專案使用 [ui-ux-pro-max](https://github.com/anthropics/claude-code) skill 作為設計參考資料庫。
+This project uses [ui-ux-pro-max](https://github.com/anthropics/claude-code) skill as a design reference database.
 
 ---
 
